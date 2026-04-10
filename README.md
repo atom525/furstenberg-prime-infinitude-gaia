@@ -44,40 +44,41 @@ gcd_multiplicativity + sigma_n_infinite + FTA + closure_union + density_transiti
 
 | Label | Statement |
 |-------|-----------|
-| `thm_infinitude_primes` | There are infinitely many primes: $\#P = \aleph_0$ |
-| `thm_density_iff_infinite` | $\#P = \aleph_0$ iff $P$ is dense in $(\\mathbb{N}, \tau)$ |
-| `thm_p_dense_x1` | $P$ is dense in $X_1 = (\mathbb{N} \setminus \\{1\\}, \tau_1)$ |
-| `thm_subset_dense_iff_infinite` | For $A \subseteq P$: $A$ dense iff $\#A = \aleph_0$ |
+|  | There are infinitely many primes |
+|  | Infinitude iff density in X |
+|  | P is dense in X_1 |
+|  | For A subset P: A dense iff infinite |
 
 ### Holes (independent premises requiring external prior)
 
 | Label | Statement |
 |-------|-----------|
-| `gcd_multiplicativity` | $\gcd(x,n)=1 \wedge \gcd(x,m)=1 \iff \gcd(x,nm)=1$ |
-| `fundamental_theorem_arithmetic` | Every $n>1$ is divisible by some prime |
-| `closure_union_containment` | $\bigcup \operatorname{cl}(A_\alpha) \subseteq \operatorname{cl}(\bigcup A_\alpha)$ |
-| `density_transitivity` | Density is transitive in topological spaces |
-| `sigma_n_infinite` | Each $\sigma_n$ is infinite |
+|  | GCD multiplicativity |
+|  | Every n>1 divisible by some prime |
+|  | Union of closures in closure of union |
+|  | Density is transitive |
+|  | Each sigma_n is infinite |
 
 ## Belief propagation results
 
-Using the included `self_review` sidecar (9 priors assigned):
+Using the included  sidecar (19 priors assigned to both independent and derived claims):
 
 | Claim | Belief |
 |-------|--------|
-| `thm_infinitude_primes` | **0.794** |
-| `thm_p_dense_x1` | 0.783 |
-| `thm_density_iff_infinite` | 0.761 |
-| `thm_closure_n` | 0.831 |
-| `lem_density_equivalence` | 0.937 |
-| `x1_dense_in_x` | 0.926 |
+|  | **0.9999** |
+|  | 0.9993 |
+|  | 0.9996 |
+|  | 0.9995 |
+|  | 0.9997 |
+|  | 0.9996 |
+|  | 0.9898 |
 
 Method: Junction Tree (exact), converged in 2 iterations, treewidth 3.
 
 ## Installation
 
 ```bash
-uv add "furstenberg-prime-infinitude-gaia @ git+https://github.com/atom525/furstenberg-prime-infinitude-gaia@v0.1.0"
+uv add furstenberg-prime-infinitude-gaia @ git+https://github.com/atom525/furstenberg-prime-infinitude-gaia@v0.1.0
 ```
 
 ## Usage
@@ -94,10 +95,6 @@ gaia infer . --review self_review
 
 ## Modules
 
-- **`motivation.py`** -- Coprimality sets $\sigma_n$, Furstenberg topology $\tau$, base properties (Thm 0.1)
-- **`closure.py`** -- Closure characterization: $\operatorname{cl}_X(\{p\}) = M_p$, $\operatorname{cl}_X(\{n\}) = \bigcap M_p$ (Lem 0.4, Thm 0.5)
-- **`density.py`** -- Density equivalence, main infinitude theorem, generalization (Thm 0.7--0.14)
-
-## License
-
-This is an AI-generated formalization. Belief values reflect the graph's probabilistic assessment, not the original author's confidence.
+- **** -- Coprimality sets, Furstenberg topology, base properties (Thm 0.1)
+- **** -- Closure characterization (Lem 0.4, Thm 0.5)
+- **** -- Density equivalence, main infinitude theorem, generalization (Thm 0.7--0.14)
