@@ -1,5 +1,5 @@
 [project]
-name = "prime-topo-gaia"
+name = "furstenberg-prime-infinitude-gaia"
 version = "0.1.0"
 description = "Topological proof of infinitude of primes via Furstenberg topology (arXiv:2402.03356)"
 readme = "README.md"

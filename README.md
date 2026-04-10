@@ -1,4 +1,4 @@
-# prime-topo-gaia
+# furstenberg-prime-infinitude-gaia
 
 A [Gaia](https://github.com/SiliconEinstein/Gaia) knowledge package formalizing the topological proof of the infinitude of prime numbers.
 
@@ -77,7 +77,7 @@ Method: Junction Tree (exact), converged in 2 iterations, treewidth 3.
 ## Installation
 
 ```bash
-uv add "prime-topo-gaia @ git+https://github.com/atom525/prime-topo-gaia@v0.1.0"
+uv add "furstenberg-prime-infinitude-gaia @ git+https://github.com/atom525/furstenberg-prime-infinitude-gaia@v0.1.0"
 ```
 
 ## Usage
