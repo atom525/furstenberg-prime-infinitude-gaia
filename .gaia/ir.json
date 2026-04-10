@@ -1,5 +1,5 @@
 {
-  "ir_hash": "sha256:bbf0a31a6f9501fbde51b42e2d7e1296045e148bef4aad132f88e20ecb3477e9",
+  "ir_hash": "sha256:34a95ef3fb16b640b33c1d89335a2d820462e3a51dc58f1e7e7357bebab662a7",
   "knowledges": [
     {
       "content": "Let $\\mathbb{N}$ denote the set of positive integers $\\{1, 2, 3, \\ldots\\}$.",
@@ -117,13 +117,6 @@
       "id": "github:furstenberg_prime_infinitude::thm_base",
       "label": "thm_base",
       "metadata": {
-        "gaia": {
-          "provenance": {
-            "referenced_claims": [
-              "gcd_multiplicativity"
-            ]
-          }
-        },
         "source": "arXiv:2402.03356, Theorem 0.1"
       },
       "module": "motivation",
@@ -199,13 +192,6 @@
       "id": "github:furstenberg_prime_infinitude::lem_closure_prime",
       "label": "lem_closure_prime",
       "metadata": {
-        "gaia": {
-          "provenance": {
-            "referenced_claims": [
-              "thm_base"
-            ]
-          }
-        },
         "source": "arXiv:2402.03356, Lemma 0.4"
       },
       "module": "closure",
@@ -221,13 +207,6 @@
       "id": "github:furstenberg_prime_infinitude::thm_closure_n",
       "label": "thm_closure_n",
       "metadata": {
-        "gaia": {
-          "provenance": {
-            "referenced_claims": [
-              "lem_closure_prime"
-            ]
-          }
-        },
         "source": "arXiv:2402.03356, Theorem 0.5"
       },
       "module": "closure",
@@ -243,13 +222,6 @@
       "id": "github:furstenberg_prime_infinitude::remark_closure_1",
       "label": "remark_closure_1",
       "metadata": {
-        "gaia": {
-          "provenance": {
-            "referenced_claims": [
-              "thm_base"
-            ]
-          }
-        },
         "source": "arXiv:2402.03356, Remark 0.6"
       },
       "module": "closure",
@@ -264,15 +236,6 @@
       "exported": false,
       "id": "github:furstenberg_prime_infinitude::x1_dense_in_x",
       "label": "x1_dense_in_x",
-      "metadata": {
-        "gaia": {
-          "provenance": {
-            "referenced_claims": [
-              "sigma_n_infinite"
-            ]
-          }
-        }
-      },
       "module": "closure",
       "parameters": [],
       "title": "X_1 is dense in X",
@@ -286,13 +249,6 @@
       "id": "github:furstenberg_prime_infinitude::thm_density_iff_infinite",
       "label": "thm_density_iff_infinite",
       "metadata": {
-        "gaia": {
-          "provenance": {
-            "referenced_claims": [
-              "thm_base"
-            ]
-          }
-        },
         "source": "arXiv:2402.03356, Theorem 0.7"
       },
       "module": "density",
@@ -308,14 +264,6 @@
       "id": "github:furstenberg_prime_infinitude::lem_density_equivalence",
       "label": "lem_density_equivalence",
       "metadata": {
-        "gaia": {
-          "provenance": {
-            "referenced_claims": [
-              "density_transitivity",
-              "x1_dense_in_x"
-            ]
-          }
-        },
         "source": "arXiv:2402.03356, Lemma 0.8"
       },
       "module": "density",
@@ -331,15 +279,6 @@
       "id": "github:furstenberg_prime_infinitude::thm_p_dense_x1",
       "label": "thm_p_dense_x1",
       "metadata": {
-        "gaia": {
-          "provenance": {
-            "referenced_claims": [
-              "closure_union_containment",
-              "fundamental_theorem_arithmetic",
-              "lem_closure_prime"
-            ]
-          }
-        },
         "source": "arXiv:2402.03356, Theorem 0.9"
       },
       "module": "density",
@@ -355,15 +294,6 @@
       "id": "github:furstenberg_prime_infinitude::thm_infinitude_primes",
       "label": "thm_infinitude_primes",
       "metadata": {
-        "gaia": {
-          "provenance": {
-            "referenced_claims": [
-              "lem_density_equivalence",
-              "thm_density_iff_infinite",
-              "thm_p_dense_x1"
-            ]
-          }
-        },
         "source": "arXiv:2402.03356, Theorem 0.13"
       },
       "module": "density",
@@ -379,13 +309,6 @@
       "id": "github:furstenberg_prime_infinitude::thm_subset_dense_iff_infinite",
       "label": "thm_subset_dense_iff_infinite",
       "metadata": {
-        "gaia": {
-          "provenance": {
-            "referenced_claims": [
-              "thm_base"
-            ]
-          }
-        },
         "source": "arXiv:2402.03356, Theorem 0.14"
       },
       "module": "density",
