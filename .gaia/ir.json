@@ -1,12 +1,12 @@
 {
-  "ir_hash": "sha256:c294a9404526b833ec9f50a6d6808a0ad6fc1d0ecea687ae00667a0cca1182d8",
+  "ir_hash": "sha256:bbf0a31a6f9501fbde51b42e2d7e1296045e148bef4aad132f88e20ecb3477e9",
   "knowledges": [
     {
       "content": "Let $\\mathbb{N}$ denote the set of positive integers $\\{1, 2, 3, \\ldots\\}$.",
       "content_hash": "6c82534cf6a2be0a60f2cf88f1eb9c1482004deb52a9511139932f08cdafa187",
       "declaration_index": 0,
       "exported": false,
-      "id": "github:prime_topo::s_positive_integers",
+      "id": "github:furstenberg_prime_infinitude::s_positive_integers",
       "label": "s_positive_integers",
       "module": "motivation",
       "parameters": [],
@@ -18,7 +18,7 @@
       "content_hash": "b2527375c3f351364404601980d37573cd04069bf62b5dd8e17c614dbcdf8f43",
       "declaration_index": 1,
       "exported": false,
-      "id": "github:prime_topo::s_coprimality_set",
+      "id": "github:furstenberg_prime_infinitude::s_coprimality_set",
       "label": "s_coprimality_set",
       "module": "motivation",
       "parameters": [],
@@ -30,7 +30,7 @@
       "content_hash": "44064c263cb3c9468a297bca1aaa4a18ef03f5afd5f59c322a04d96fb065127f",
       "declaration_index": 2,
       "exported": false,
-      "id": "github:prime_topo::s_base_and_topology",
+      "id": "github:furstenberg_prime_infinitude::s_base_and_topology",
       "label": "s_base_and_topology",
       "module": "motivation",
       "parameters": [],
@@ -42,7 +42,7 @@
       "content_hash": "0d48c06c351a7c53be5cfbb20602d6b1e1ef3473a223f502f048ff2f92b94421",
       "declaration_index": 3,
       "exported": false,
-      "id": "github:prime_topo::s_primes_and_multiples",
+      "id": "github:furstenberg_prime_infinitude::s_primes_and_multiples",
       "label": "s_primes_and_multiples",
       "module": "motivation",
       "parameters": [],
@@ -54,7 +54,7 @@
       "content_hash": "68a785f1a22c48a38c7bf4427cc928c9360e6f8374a07e2473151c441ce8d694",
       "declaration_index": 4,
       "exported": false,
-      "id": "github:prime_topo::s_subspace",
+      "id": "github:furstenberg_prime_infinitude::s_subspace",
       "label": "s_subspace",
       "module": "motivation",
       "parameters": [],
@@ -66,7 +66,7 @@
       "content_hash": "6b3f9757ab5f2b1ee6626dcfcca1462b68dd7761a7806ac13955d1ae1b563f67",
       "declaration_index": 5,
       "exported": false,
-      "id": "github:prime_topo::gcd_multiplicativity",
+      "id": "github:furstenberg_prime_infinitude::gcd_multiplicativity",
       "label": "gcd_multiplicativity",
       "module": "motivation",
       "parameters": [],
@@ -78,7 +78,7 @@
       "content_hash": "b6f07aa7aab3e7cf6b4170dbc4c32692abd12b42f59923e4d9ea9e5eee61779a",
       "declaration_index": 6,
       "exported": false,
-      "id": "github:prime_topo::fundamental_theorem_arithmetic",
+      "id": "github:furstenberg_prime_infinitude::fundamental_theorem_arithmetic",
       "label": "fundamental_theorem_arithmetic",
       "module": "motivation",
       "parameters": [],
@@ -90,7 +90,7 @@
       "content_hash": "8910fc563405e3e73e0d72b97c5194d53c90882da385c4686ca4f1bf1859d9ea",
       "declaration_index": 7,
       "exported": false,
-      "id": "github:prime_topo::closure_union_containment",
+      "id": "github:furstenberg_prime_infinitude::closure_union_containment",
       "label": "closure_union_containment",
       "module": "motivation",
       "parameters": [],
@@ -102,7 +102,7 @@
       "content_hash": "e5aaa4837b0b6a551588c2ca74ecbce89703d7ef4638147321b30ee92e3a708d",
       "declaration_index": 8,
       "exported": false,
-      "id": "github:prime_topo::density_transitivity",
+      "id": "github:furstenberg_prime_infinitude::density_transitivity",
       "label": "density_transitivity",
       "module": "motivation",
       "parameters": [],
@@ -114,7 +114,7 @@
       "content_hash": "b5d65fa4f18b22e061f5f444f1712f618d183173cd787ba508e718f31f43d99a",
       "declaration_index": 9,
       "exported": false,
-      "id": "github:prime_topo::thm_base",
+      "id": "github:furstenberg_prime_infinitude::thm_base",
       "label": "thm_base",
       "metadata": {
         "gaia": {
@@ -136,7 +136,7 @@
       "content_hash": "da36d543522479e60559285016c71b6958b0f0e6a40e614a2b96b85e30e9a741",
       "declaration_index": 10,
       "exported": false,
-      "id": "github:prime_topo::sigma_n_infinite",
+      "id": "github:furstenberg_prime_infinitude::sigma_n_infinite",
       "label": "sigma_n_infinite",
       "module": "motivation",
       "parameters": [],
@@ -148,7 +148,7 @@
       "content_hash": "ffcde14b807970212e09906de8f0877f4ec5a66336dbcbbaad82ffcc751222e4",
       "declaration_index": 11,
       "exported": false,
-      "id": "github:prime_topo::tau_coarser_golomb",
+      "id": "github:furstenberg_prime_infinitude::tau_coarser_golomb",
       "label": "tau_coarser_golomb",
       "module": "motivation",
       "parameters": [],
@@ -160,7 +160,7 @@
       "content_hash": "6d5779746616e9dfaddfcd50f6f43028aacd7e18ae361655317dd34053913849",
       "declaration_index": 12,
       "exported": false,
-      "id": "github:prime_topo::x_not_t0",
+      "id": "github:furstenberg_prime_infinitude::x_not_t0",
       "label": "x_not_t0",
       "module": "motivation",
       "parameters": [],
@@ -172,7 +172,7 @@
       "content_hash": "00c8ebb69ae04cca178cc3114c232280431bc722e150c3955fd9fe01f7dbec70",
       "declaration_index": 13,
       "exported": false,
-      "id": "github:prime_topo::x_hyperconnected",
+      "id": "github:furstenberg_prime_infinitude::x_hyperconnected",
       "label": "x_hyperconnected",
       "module": "motivation",
       "parameters": [],
@@ -184,7 +184,7 @@
       "content_hash": "895926e1fdd1b2e19804627a7cd21edfa7c3b1001dec092bfab00c2b7f17c93b",
       "declaration_index": 14,
       "exported": false,
-      "id": "github:prime_topo::x_ultraconnected",
+      "id": "github:furstenberg_prime_infinitude::x_ultraconnected",
       "label": "x_ultraconnected",
       "module": "motivation",
       "parameters": [],
@@ -196,7 +196,7 @@
       "content_hash": "a5572f48d1f9b4ee28566d63500edbcc463c16d0d35dae38ce4c0452ff87dea8",
       "declaration_index": 0,
       "exported": false,
-      "id": "github:prime_topo::lem_closure_prime",
+      "id": "github:furstenberg_prime_infinitude::lem_closure_prime",
       "label": "lem_closure_prime",
       "metadata": {
         "gaia": {
@@ -218,7 +218,7 @@
       "content_hash": "6209a655e77164b59f7f026f05ac5c77443b7408b4a94faea0743e839c8078a2",
       "declaration_index": 1,
       "exported": false,
-      "id": "github:prime_topo::thm_closure_n",
+      "id": "github:furstenberg_prime_infinitude::thm_closure_n",
       "label": "thm_closure_n",
       "metadata": {
         "gaia": {
@@ -240,7 +240,7 @@
       "content_hash": "f9f216032fa0b9af5b1a3f4ca2b52adaeea19e7ad421e00093b7b7ac2528bd9d",
       "declaration_index": 2,
       "exported": false,
-      "id": "github:prime_topo::remark_closure_1",
+      "id": "github:furstenberg_prime_infinitude::remark_closure_1",
       "label": "remark_closure_1",
       "metadata": {
         "gaia": {
@@ -262,7 +262,7 @@
       "content_hash": "bedcaa94f4dd2347cc9f3211941ec23a82132856b701dc952bd5cf2467d3fec9",
       "declaration_index": 3,
       "exported": false,
-      "id": "github:prime_topo::x1_dense_in_x",
+      "id": "github:furstenberg_prime_infinitude::x1_dense_in_x",
       "label": "x1_dense_in_x",
       "metadata": {
         "gaia": {
@@ -283,7 +283,7 @@
       "content_hash": "2242ecec1c8e760cb2ec1050214767bae4d27d74c7ae4e6cb3dd30c5ad2689a0",
       "declaration_index": 0,
       "exported": true,
-      "id": "github:prime_topo::thm_density_iff_infinite",
+      "id": "github:furstenberg_prime_infinitude::thm_density_iff_infinite",
       "label": "thm_density_iff_infinite",
       "metadata": {
         "gaia": {
@@ -305,7 +305,7 @@
       "content_hash": "dc996b189f0b3dbb315666f5612ca14d821a356692a3850fdab5d698f8d37707",
       "declaration_index": 1,
       "exported": false,
-      "id": "github:prime_topo::lem_density_equivalence",
+      "id": "github:furstenberg_prime_infinitude::lem_density_equivalence",
       "label": "lem_density_equivalence",
       "metadata": {
         "gaia": {
@@ -328,7 +328,7 @@
       "content_hash": "d1d09bbfcff3d21f3bffebfe9daa64db7de95ea7673de76010cd8a5da9aff672",
       "declaration_index": 2,
       "exported": true,
-      "id": "github:prime_topo::thm_p_dense_x1",
+      "id": "github:furstenberg_prime_infinitude::thm_p_dense_x1",
       "label": "thm_p_dense_x1",
       "metadata": {
         "gaia": {
@@ -352,7 +352,7 @@
       "content_hash": "d4963a2ef247d6066d03bf0ef457e742fa9c6ff211d29ef9b154bfd5ed64e29e",
       "declaration_index": 3,
       "exported": true,
-      "id": "github:prime_topo::thm_infinitude_primes",
+      "id": "github:furstenberg_prime_infinitude::thm_infinitude_primes",
       "label": "thm_infinitude_primes",
       "metadata": {
         "gaia": {
@@ -376,7 +376,7 @@
       "content_hash": "06a0d55b610ff1deca6d1dc5c3ed0769f5044818c404d731e66aff596cf5059d",
       "declaration_index": 4,
       "exported": true,
-      "id": "github:prime_topo::thm_subset_dense_iff_infinite",
+      "id": "github:furstenberg_prime_infinitude::thm_subset_dense_iff_infinite",
       "label": "thm_subset_dense_iff_infinite",
       "metadata": {
         "gaia": {
@@ -394,19 +394,19 @@
       "type": "claim"
     },
     {
-      "content": "all_true(github:prime_topo::x1_dense_in_x,github:prime_topo::density_transitivity)",
-      "content_hash": "d1c7d0bce89c748cba0bf926a92f063fe93c73d34eaef1868105259e2d627750",
+      "content": "all_true(github:furstenberg_prime_infinitude::x1_dense_in_x,github:furstenberg_prime_infinitude::density_transitivity)",
+      "content_hash": "76bf5c237bf1916dbcc9853f6fa298fe968607caeca791156b3a17a1b0c56b41",
       "exported": false,
-      "id": "github:prime_topo::__conjunction_result_f45b67e4",
-      "label": "__conjunction_result_f45b67e4",
+      "id": "github:furstenberg_prime_infinitude::__conjunction_result_f6e5ff3d",
+      "label": "__conjunction_result_f6e5ff3d",
       "metadata": {
-        "canonical_name": "all_true(github:prime_topo::x1_dense_in_x,github:prime_topo::density_transitivity)",
+        "canonical_name": "all_true(github:furstenberg_prime_infinitude::x1_dense_in_x,github:furstenberg_prime_infinitude::density_transitivity)",
         "generated": true,
         "generated_kind": "helper_claim",
         "helper_kind": "conjunction_result",
         "helper_visibility": "formal_internal",
         "intermediate_role": "conjunction_result",
-        "owning_strategy_id": "lcs_67abe3031b6b5c54",
+        "owning_strategy_id": "lcs_c56c55baa0594e14",
         "owning_strategy_type": "deduction",
         "visibility": "formal_internal"
       },
@@ -414,19 +414,19 @@
       "type": "claim"
     },
     {
-      "content": "all_true(github:prime_topo::lem_closure_prime,github:prime_topo::fundamental_theorem_arithmetic,github:prime_topo::closure_union_containment)",
-      "content_hash": "087677523b05675d6c9d2ca368d255f600a785fec87efdc50087b46cf285ed1b",
+      "content": "all_true(github:furstenberg_prime_infinitude::lem_closure_prime,github:furstenberg_prime_infinitude::fundamental_theorem_arithmetic,github:furstenberg_prime_infinitude::closure_union_containment)",
+      "content_hash": "6bc24f95618e865487e2543ada5150e06c4f6b55764af2d82efd544c6df66b2e",
       "exported": false,
-      "id": "github:prime_topo::__conjunction_result_46a5b7c1",
-      "label": "__conjunction_result_46a5b7c1",
+      "id": "github:furstenberg_prime_infinitude::__conjunction_result_a17b86c0",
+      "label": "__conjunction_result_a17b86c0",
       "metadata": {
-        "canonical_name": "all_true(github:prime_topo::lem_closure_prime,github:prime_topo::fundamental_theorem_arithmetic,github:prime_topo::closure_union_containment)",
+        "canonical_name": "all_true(github:furstenberg_prime_infinitude::lem_closure_prime,github:furstenberg_prime_infinitude::fundamental_theorem_arithmetic,github:furstenberg_prime_infinitude::closure_union_containment)",
         "generated": true,
         "generated_kind": "helper_claim",
         "helper_kind": "conjunction_result",
         "helper_visibility": "formal_internal",
         "intermediate_role": "conjunction_result",
-        "owning_strategy_id": "lcs_65241a97bbf35231",
+        "owning_strategy_id": "lcs_ff0e392c81786ff3",
         "owning_strategy_type": "deduction",
         "visibility": "formal_internal"
       },
@@ -434,19 +434,19 @@
       "type": "claim"
     },
     {
-      "content": "all_true(github:prime_topo::thm_density_iff_infinite,github:prime_topo::lem_density_equivalence,github:prime_topo::thm_p_dense_x1)",
-      "content_hash": "c0aee64307cf4701cbff1b5cf7409512e31edd3e93972e75692645e49d1eef35",
+      "content": "all_true(github:furstenberg_prime_infinitude::thm_density_iff_infinite,github:furstenberg_prime_infinitude::lem_density_equivalence,github:furstenberg_prime_infinitude::thm_p_dense_x1)",
+      "content_hash": "59d13ace1a59c4d676e050056a2270f89945598f2cb8d6e96cc15c9d1dee5b5c",
       "exported": false,
-      "id": "github:prime_topo::__conjunction_result_30d56c48",
-      "label": "__conjunction_result_30d56c48",
+      "id": "github:furstenberg_prime_infinitude::__conjunction_result_a4b9fec9",
+      "label": "__conjunction_result_a4b9fec9",
       "metadata": {
-        "canonical_name": "all_true(github:prime_topo::thm_density_iff_infinite,github:prime_topo::lem_density_equivalence,github:prime_topo::thm_p_dense_x1)",
+        "canonical_name": "all_true(github:furstenberg_prime_infinitude::thm_density_iff_infinite,github:furstenberg_prime_infinitude::lem_density_equivalence,github:furstenberg_prime_infinitude::thm_p_dense_x1)",
         "generated": true,
         "generated_kind": "helper_claim",
         "helper_kind": "conjunction_result",
         "helper_visibility": "formal_internal",
         "intermediate_role": "conjunction_result",
-        "owning_strategy_id": "lcs_615d8017514ae652",
+        "owning_strategy_id": "lcs_ef655be6a2cfca02",
         "owning_strategy_type": "deduction",
         "visibility": "formal_internal"
       },
@@ -466,23 +466,23 @@
   },
   "namespace": "github",
   "operators": [],
-  "package_name": "prime_topo",
+  "package_name": "furstenberg_prime_infinitude",
   "scope": "local",
   "strategies": [
     {
       "background": [
-        "github:prime_topo::s_coprimality_set",
-        "github:prime_topo::s_base_and_topology",
-        "github:prime_topo::s_positive_integers"
+        "github:furstenberg_prime_infinitude::s_coprimality_set",
+        "github:furstenberg_prime_infinitude::s_base_and_topology",
+        "github:furstenberg_prime_infinitude::s_positive_integers"
       ],
-      "conclusion": "github:prime_topo::thm_base",
+      "conclusion": "github:furstenberg_prime_infinitude::thm_base",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:prime_topo::thm_base",
+            "conclusion": "github:furstenberg_prime_infinitude::thm_base",
             "operator": "implication",
             "variables": [
-              "github:prime_topo::gcd_multiplicativity"
+              "github:furstenberg_prime_infinitude::gcd_multiplicativity"
             ]
           }
         ]
@@ -493,27 +493,27 @@
         "reason": "By @gcd_multiplicativity, $\\sigma_{nm} = \\sigma_n \\cap \\sigma_m$ for all $n, m \\in \\mathbb{N}$. This gives condition (2) for a topological base: the intersection of any two base elements $\\sigma_n \\cap \\sigma_m = \\sigma_{nm}$ is itself in $\\beta$. Condition (1) is immediate: $\\bigcup_{n} \\sigma_n \\supseteq \\sigma_1 = \\mathbb{N}$. Together, these two conditions establish that $\\beta$ is a base for a topology on $\\mathbb{N}$."
       },
       "premises": [
-        "github:prime_topo::gcd_multiplicativity"
+        "github:furstenberg_prime_infinitude::gcd_multiplicativity"
       ],
       "scope": "local",
-      "strategy_id": "lcs_3d12ae4148b6db39",
+      "strategy_id": "lcs_e5702ce84f1d70ff",
       "type": "deduction"
     },
     {
       "background": [
-        "github:prime_topo::s_coprimality_set",
-        "github:prime_topo::s_base_and_topology",
-        "github:prime_topo::s_primes_and_multiples",
-        "github:prime_topo::s_positive_integers"
+        "github:furstenberg_prime_infinitude::s_coprimality_set",
+        "github:furstenberg_prime_infinitude::s_base_and_topology",
+        "github:furstenberg_prime_infinitude::s_primes_and_multiples",
+        "github:furstenberg_prime_infinitude::s_positive_integers"
       ],
-      "conclusion": "github:prime_topo::lem_closure_prime",
+      "conclusion": "github:furstenberg_prime_infinitude::lem_closure_prime",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:prime_topo::lem_closure_prime",
+            "conclusion": "github:furstenberg_prime_infinitude::lem_closure_prime",
             "operator": "implication",
             "variables": [
-              "github:prime_topo::thm_base"
+              "github:furstenberg_prime_infinitude::thm_base"
             ]
           }
         ]
@@ -524,27 +524,27 @@
         "reason": "The proof uses that $\\beta$ is a base for $\\tau$ (@thm_base), so the basic open sets $\\sigma_k$ determine closure in $X$. ($\\subseteq$) Suppose $x \\in \\operatorname{cl}_X(\\{p\\})$ but $x \\notin M_p$. Then $\\gcd(x, p) = 1$, so $x \\in \\sigma_p$. Since $x$ is in the closure of $\\{p\\}$, every open set containing $x$ must contain $p$, so $p \\in \\sigma_p$. But $\\gcd(p, p) = p \\neq 1$, contradiction. ($\\supseteq$) If $x = np \\in M_p$ and $x \\in \\sigma_k$, then $\\gcd(np, k) = 1$, which forces $\\gcd(p, k) = 1$, so $p \\in \\sigma_k$. Every basic open neighborhood of $x$ contains $p$, hence $x \\in \\operatorname{cl}_X(\\{p\\})$."
       },
       "premises": [
-        "github:prime_topo::thm_base"
+        "github:furstenberg_prime_infinitude::thm_base"
       ],
       "scope": "local",
-      "strategy_id": "lcs_ad0fbf43dced91f2",
+      "strategy_id": "lcs_0d4c7cd3e91a4f46",
       "type": "deduction"
     },
     {
       "background": [
-        "github:prime_topo::s_coprimality_set",
-        "github:prime_topo::s_base_and_topology",
-        "github:prime_topo::s_primes_and_multiples",
-        "github:prime_topo::s_positive_integers"
+        "github:furstenberg_prime_infinitude::s_coprimality_set",
+        "github:furstenberg_prime_infinitude::s_base_and_topology",
+        "github:furstenberg_prime_infinitude::s_primes_and_multiples",
+        "github:furstenberg_prime_infinitude::s_positive_integers"
       ],
-      "conclusion": "github:prime_topo::thm_closure_n",
+      "conclusion": "github:furstenberg_prime_infinitude::thm_closure_n",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:prime_topo::thm_closure_n",
+            "conclusion": "github:furstenberg_prime_infinitude::thm_closure_n",
             "operator": "implication",
             "variables": [
-              "github:prime_topo::lem_closure_prime"
+              "github:furstenberg_prime_infinitude::lem_closure_prime"
             ]
           }
         ]
@@ -555,26 +555,26 @@
         "reason": "($\\supseteq$) Take $x \\in \\bigcap_{p|n} M_p$. By @lem_closure_prime, $x \\in \\operatorname{cl}_X(\\{p\\})$ for every prime $p | n$. So for every $\\sigma_k \\ni x$, we have $p \\in \\sigma_k$ for all $p | n$, meaning $\\gcd(p, k) = 1$ for all $p | n$, hence $\\gcd(n, k) = 1$, thus $n \\in \\sigma_k$. Therefore $x \\in \\operatorname{cl}_X(\\{n\\})$. ($\\subseteq$) Take $x \\in \\operatorname{cl}_X(\\{n\\})$ and $\\sigma_k \\ni x$. Then $n \\in \\sigma_k$, so $\\gcd(n, k) = 1$, which forces $\\gcd(p, k) = 1$ for every $p | n$, hence $p \\in \\sigma_k$. By @lem_closure_prime, $x \\in \\bigcap_{p|n} M_p$."
       },
       "premises": [
-        "github:prime_topo::lem_closure_prime"
+        "github:furstenberg_prime_infinitude::lem_closure_prime"
       ],
       "scope": "local",
-      "strategy_id": "lcs_28421d2568299e02",
+      "strategy_id": "lcs_76daf4a5943cdfc7",
       "type": "deduction"
     },
     {
       "background": [
-        "github:prime_topo::s_coprimality_set",
-        "github:prime_topo::s_base_and_topology",
-        "github:prime_topo::s_positive_integers"
+        "github:furstenberg_prime_infinitude::s_coprimality_set",
+        "github:furstenberg_prime_infinitude::s_base_and_topology",
+        "github:furstenberg_prime_infinitude::s_positive_integers"
       ],
-      "conclusion": "github:prime_topo::remark_closure_1",
+      "conclusion": "github:furstenberg_prime_infinitude::remark_closure_1",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:prime_topo::remark_closure_1",
+            "conclusion": "github:furstenberg_prime_infinitude::remark_closure_1",
             "operator": "implication",
             "variables": [
-              "github:prime_topo::thm_base"
+              "github:furstenberg_prime_infinitude::thm_base"
             ]
           }
         ]
@@ -585,25 +585,25 @@
         "reason": "Since $\\beta$ is a base for $\\tau$ (@thm_base), closure is determined by the basic open sets $\\sigma_n$. For $\\{1\\}$: since $\\gcd(1, n) = 1$ for all $n$, we have $1 \\in \\sigma_n$ for all $n$, so $\\sigma_1 = \\mathbb{N}$ and every basic open set containing any point $m$ also contains $1$ (because $m \\in \\sigma_k \\Rightarrow 1 \\in \\sigma_k$). Hence $\\operatorname{cl}_X(\\{1\\}) = \\mathbb{N}$. For $n > 1$: $1 \\in \\sigma_n$ but $n \\notin \\sigma_n$ (since $\\gcd(n,n)=n>1$), so $\\sigma_n$ separates 1 from $n$, giving $1 \\notin \\operatorname{cl}_X(\\{n\\})$."
       },
       "premises": [
-        "github:prime_topo::thm_base"
+        "github:furstenberg_prime_infinitude::thm_base"
       ],
       "scope": "local",
-      "strategy_id": "lcs_bfdb2906bee94bde",
+      "strategy_id": "lcs_9ddf04d95be5dda3",
       "type": "deduction"
     },
     {
       "background": [
-        "github:prime_topo::s_base_and_topology",
-        "github:prime_topo::s_subspace"
+        "github:furstenberg_prime_infinitude::s_base_and_topology",
+        "github:furstenberg_prime_infinitude::s_subspace"
       ],
-      "conclusion": "github:prime_topo::x1_dense_in_x",
+      "conclusion": "github:furstenberg_prime_infinitude::x1_dense_in_x",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:prime_topo::x1_dense_in_x",
+            "conclusion": "github:furstenberg_prime_infinitude::x1_dense_in_x",
             "operator": "implication",
             "variables": [
-              "github:prime_topo::sigma_n_infinite"
+              "github:furstenberg_prime_infinitude::sigma_n_infinite"
             ]
           }
         ]
@@ -614,27 +614,27 @@
         "reason": "By @sigma_n_infinite, every $\\sigma_n$ is infinite and hence contains elements greater than 1. Therefore every non-empty basic open set in $\\tau$ has non-empty intersection with $\\mathbb{N} \\setminus \\{1\\} = N_1$. This means $N_1$ meets every open set, so $\\operatorname{cl}_X(N_1) = \\mathbb{N}$, i.e., $X_1$ is dense in $X$."
       },
       "premises": [
-        "github:prime_topo::sigma_n_infinite"
+        "github:furstenberg_prime_infinitude::sigma_n_infinite"
       ],
       "scope": "local",
-      "strategy_id": "lcs_7b33e96c242bf4e2",
+      "strategy_id": "lcs_7b82fca3cbdbed29",
       "type": "deduction"
     },
     {
       "background": [
-        "github:prime_topo::s_coprimality_set",
-        "github:prime_topo::s_base_and_topology",
-        "github:prime_topo::s_primes_and_multiples",
-        "github:prime_topo::s_positive_integers"
+        "github:furstenberg_prime_infinitude::s_coprimality_set",
+        "github:furstenberg_prime_infinitude::s_base_and_topology",
+        "github:furstenberg_prime_infinitude::s_primes_and_multiples",
+        "github:furstenberg_prime_infinitude::s_positive_integers"
       ],
-      "conclusion": "github:prime_topo::thm_density_iff_infinite",
+      "conclusion": "github:furstenberg_prime_infinitude::thm_density_iff_infinite",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:prime_topo::thm_density_iff_infinite",
+            "conclusion": "github:furstenberg_prime_infinitude::thm_density_iff_infinite",
             "operator": "implication",
             "variables": [
-              "github:prime_topo::thm_base"
+              "github:furstenberg_prime_infinitude::thm_base"
             ]
           }
         ]
@@ -645,34 +645,34 @@
         "reason": "Since $\\beta$ is a base for $\\tau$ (@thm_base), density of $P$ in $X$ is equivalent to $P \\cap \\sigma_n \\neq \\emptyset$ for every $\\sigma_n \\in \\beta$. ($\\Rightarrow$) If $P$ is infinite, for any $n > 1$ pick a prime $p > n$; then $\\gcd(n, p) = 1$ so $p \\in \\sigma_n \\cap P$. For $n = 1$, $\\sigma_1 = \\mathbb{N} \\supseteq P$. ($\\Leftarrow$) Given a finite set of primes $\\{p_1, \\ldots, p_k\\}$, set $x = p_1 \\cdots p_k$. None of the $p_i$ lie in $\\sigma_x$ (since $\\gcd(p_i, x) = p_i \\neq 1$). But $P$ is dense, so $\\exists q \\in P \\cap \\sigma_x$ with $q \\neq p_i$ for all $i$. Hence $P$ has more than $k$ elements for any $k$."
       },
       "premises": [
-        "github:prime_topo::thm_base"
+        "github:furstenberg_prime_infinitude::thm_base"
       ],
       "scope": "local",
-      "strategy_id": "lcs_3dbb30487a233009",
+      "strategy_id": "lcs_e10c83099c6f7ecc",
       "type": "deduction"
     },
     {
       "background": [
-        "github:prime_topo::s_base_and_topology",
-        "github:prime_topo::s_subspace",
-        "github:prime_topo::s_primes_and_multiples"
+        "github:furstenberg_prime_infinitude::s_base_and_topology",
+        "github:furstenberg_prime_infinitude::s_subspace",
+        "github:furstenberg_prime_infinitude::s_primes_and_multiples"
       ],
-      "conclusion": "github:prime_topo::lem_density_equivalence",
+      "conclusion": "github:furstenberg_prime_infinitude::lem_density_equivalence",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:prime_topo::__conjunction_result_f45b67e4",
+            "conclusion": "github:furstenberg_prime_infinitude::__conjunction_result_f6e5ff3d",
             "operator": "conjunction",
             "variables": [
-              "github:prime_topo::x1_dense_in_x",
-              "github:prime_topo::density_transitivity"
+              "github:furstenberg_prime_infinitude::x1_dense_in_x",
+              "github:furstenberg_prime_infinitude::density_transitivity"
             ]
           },
           {
-            "conclusion": "github:prime_topo::lem_density_equivalence",
+            "conclusion": "github:furstenberg_prime_infinitude::lem_density_equivalence",
             "operator": "implication",
             "variables": [
-              "github:prime_topo::__conjunction_result_f45b67e4"
+              "github:furstenberg_prime_infinitude::__conjunction_result_f6e5ff3d"
             ]
           }
         ]
@@ -683,37 +683,37 @@
         "reason": "($\\Leftarrow$) Trivial: density in the ambient space implies density in a subspace. ($\\Rightarrow$) @x1_dense_in_x establishes that $X_1$ is dense in $X$. If $P$ is dense in $X_1$, then by @density_transitivity (density is transitive), $P$ is dense in $X$."
       },
       "premises": [
-        "github:prime_topo::x1_dense_in_x",
-        "github:prime_topo::density_transitivity"
+        "github:furstenberg_prime_infinitude::x1_dense_in_x",
+        "github:furstenberg_prime_infinitude::density_transitivity"
       ],
       "scope": "local",
-      "strategy_id": "lcs_67abe3031b6b5c54",
+      "strategy_id": "lcs_c56c55baa0594e14",
       "type": "deduction"
     },
     {
       "background": [
-        "github:prime_topo::s_base_and_topology",
-        "github:prime_topo::s_subspace",
-        "github:prime_topo::s_primes_and_multiples",
-        "github:prime_topo::s_positive_integers"
+        "github:furstenberg_prime_infinitude::s_base_and_topology",
+        "github:furstenberg_prime_infinitude::s_subspace",
+        "github:furstenberg_prime_infinitude::s_primes_and_multiples",
+        "github:furstenberg_prime_infinitude::s_positive_integers"
       ],
-      "conclusion": "github:prime_topo::thm_p_dense_x1",
+      "conclusion": "github:furstenberg_prime_infinitude::thm_p_dense_x1",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:prime_topo::__conjunction_result_46a5b7c1",
+            "conclusion": "github:furstenberg_prime_infinitude::__conjunction_result_a17b86c0",
             "operator": "conjunction",
             "variables": [
-              "github:prime_topo::lem_closure_prime",
-              "github:prime_topo::fundamental_theorem_arithmetic",
-              "github:prime_topo::closure_union_containment"
+              "github:furstenberg_prime_infinitude::lem_closure_prime",
+              "github:furstenberg_prime_infinitude::fundamental_theorem_arithmetic",
+              "github:furstenberg_prime_infinitude::closure_union_containment"
             ]
           },
           {
-            "conclusion": "github:prime_topo::thm_p_dense_x1",
+            "conclusion": "github:furstenberg_prime_infinitude::thm_p_dense_x1",
             "operator": "implication",
             "variables": [
-              "github:prime_topo::__conjunction_result_46a5b7c1"
+              "github:furstenberg_prime_infinitude::__conjunction_result_a17b86c0"
             ]
           }
         ]
@@ -724,32 +724,32 @@
         "reason": "Step 1 (eq. 0.10): By @closure_union_containment (union of closures $\\subseteq$ closure of union), $\\bigcup_{p \\in P} \\operatorname{cl}_{X_1}(\\{p\\}) \\subseteq \\operatorname{cl}_{X_1}(P) \\subseteq N_1$. Step 2 (eq. 0.11): By @lem_closure_prime, $\\operatorname{cl}_X(\\{p\\}) = M_p$ for each prime $p$, so $\\operatorname{cl}_{X_1}(\\{p\\}) = M_p \\cap N_1 = M_p$ (since the smallest element of $M_p$ is $p \\geq 2 \\in N_1$). Hence $\\bigcup_{p \\in P} \\operatorname{cl}_{X_1}(\\{p\\}) = \\bigcup_{p \\in P} M_p$. Step 3 (eq. 0.12): By @fundamental_theorem_arithmetic, every integer $> 1$ has a prime divisor, so $\\bigcup_{p \\in P} M_p = N_1$. Combining: $N_1 = \\bigcup M_p = \\bigcup \\operatorname{cl}_{X_1}(\\{p\\}) \\subseteq \\operatorname{cl}_{X_1}(P) \\subseteq N_1$, hence $\\operatorname{cl}_{X_1}(P) = N_1$."
       },
       "premises": [
-        "github:prime_topo::lem_closure_prime",
-        "github:prime_topo::fundamental_theorem_arithmetic",
-        "github:prime_topo::closure_union_containment"
+        "github:furstenberg_prime_infinitude::lem_closure_prime",
+        "github:furstenberg_prime_infinitude::fundamental_theorem_arithmetic",
+        "github:furstenberg_prime_infinitude::closure_union_containment"
       ],
       "scope": "local",
-      "strategy_id": "lcs_65241a97bbf35231",
+      "strategy_id": "lcs_ff0e392c81786ff3",
       "type": "deduction"
     },
     {
-      "conclusion": "github:prime_topo::thm_infinitude_primes",
+      "conclusion": "github:furstenberg_prime_infinitude::thm_infinitude_primes",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:prime_topo::__conjunction_result_30d56c48",
+            "conclusion": "github:furstenberg_prime_infinitude::__conjunction_result_a4b9fec9",
             "operator": "conjunction",
             "variables": [
-              "github:prime_topo::thm_density_iff_infinite",
-              "github:prime_topo::lem_density_equivalence",
-              "github:prime_topo::thm_p_dense_x1"
+              "github:furstenberg_prime_infinitude::thm_density_iff_infinite",
+              "github:furstenberg_prime_infinitude::lem_density_equivalence",
+              "github:furstenberg_prime_infinitude::thm_p_dense_x1"
             ]
           },
           {
-            "conclusion": "github:prime_topo::thm_infinitude_primes",
+            "conclusion": "github:furstenberg_prime_infinitude::thm_infinitude_primes",
             "operator": "implication",
             "variables": [
-              "github:prime_topo::__conjunction_result_30d56c48"
+              "github:furstenberg_prime_infinitude::__conjunction_result_a4b9fec9"
             ]
           }
         ]
@@ -760,29 +760,29 @@
         "reason": "By @thm_p_dense_x1, $P$ is dense in $X_1$. By @lem_density_equivalence, $P$ dense in $X_1$ implies $P$ dense in $X$. By the ($\\Leftarrow$) direction of @thm_density_iff_infinite, $P$ dense in $X$ implies $\\#P = \\aleph_0$. Therefore there are infinitely many prime numbers."
       },
       "premises": [
-        "github:prime_topo::thm_density_iff_infinite",
-        "github:prime_topo::lem_density_equivalence",
-        "github:prime_topo::thm_p_dense_x1"
+        "github:furstenberg_prime_infinitude::thm_density_iff_infinite",
+        "github:furstenberg_prime_infinitude::lem_density_equivalence",
+        "github:furstenberg_prime_infinitude::thm_p_dense_x1"
       ],
       "scope": "local",
-      "strategy_id": "lcs_615d8017514ae652",
+      "strategy_id": "lcs_ef655be6a2cfca02",
       "type": "deduction"
     },
     {
       "background": [
-        "github:prime_topo::s_coprimality_set",
-        "github:prime_topo::s_base_and_topology",
-        "github:prime_topo::s_primes_and_multiples",
-        "github:prime_topo::s_positive_integers"
+        "github:furstenberg_prime_infinitude::s_coprimality_set",
+        "github:furstenberg_prime_infinitude::s_base_and_topology",
+        "github:furstenberg_prime_infinitude::s_primes_and_multiples",
+        "github:furstenberg_prime_infinitude::s_positive_integers"
       ],
-      "conclusion": "github:prime_topo::thm_subset_dense_iff_infinite",
+      "conclusion": "github:furstenberg_prime_infinitude::thm_subset_dense_iff_infinite",
       "formal_expr": {
         "operators": [
           {
-            "conclusion": "github:prime_topo::thm_subset_dense_iff_infinite",
+            "conclusion": "github:furstenberg_prime_infinitude::thm_subset_dense_iff_infinite",
             "operator": "implication",
             "variables": [
-              "github:prime_topo::thm_base"
+              "github:furstenberg_prime_infinitude::thm_base"
             ]
           }
         ]
@@ -793,10 +793,10 @@
         "reason": "The argument is identical to Theorem 0.7, replacing $P$ with an arbitrary non-empty $A \\subseteq P$. Since $\\beta$ is a base for $\\tau$ (@thm_base): ($\\Rightarrow$) If $A$ is infinite, for any $n > 1$, pick $p \\in A$ with $p > n$; then $\\gcd(n, p) = 1$ so $p \\in \\sigma_n \\cap A$, proving density. ($\\Leftarrow$) If $A$ is dense, for any finite $\\{p_1, \\ldots, p_k\\} \\subseteq A$, set $x = p_1 \\cdots p_k$; no $p_i$ lies in $\\sigma_x$, but density gives $q \\in A \\cap \\sigma_x$ distinct from all $p_i$, proving $A$ is infinite."
       },
       "premises": [
-        "github:prime_topo::thm_base"
+        "github:furstenberg_prime_infinitude::thm_base"
       ],
       "scope": "local",
-      "strategy_id": "lcs_5361d2cc7181e093",
+      "strategy_id": "lcs_b2c6857bce9db712",
       "type": "deduction"
     }
   ]

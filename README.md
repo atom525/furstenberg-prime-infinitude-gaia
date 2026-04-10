@@ -83,7 +83,7 @@ uv add "furstenberg-prime-infinitude-gaia @ git+https://github.com/atom525/furst
 ## Usage
 
 ```python
-from prime_topo import thm_infinitude_primes, thm_density_iff_infinite
+from furstenberg_prime_infinitude import thm_infinitude_primes, thm_density_iff_infinite
 ```
 
 ```bash
