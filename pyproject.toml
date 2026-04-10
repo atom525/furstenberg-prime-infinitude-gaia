@@ -1,6 +1,6 @@
 [project]
 name = "furstenberg-prime-infinitude-gaia"
-version = "0.1.0"
+version = "0.2.0"
 description = "Topological proof of infinitude of primes via Furstenberg topology (arXiv:2402.03356)"
 readme = "README.md"
 requires-python = ">=3.12"
